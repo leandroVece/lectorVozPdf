@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lector de voz", "Lector de voz\Lector de voz.csproj", "{F4760BC6-C4F8-449B-AE90-63980392DBAD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{CD986AF3-3643-40DF-A129-B6C14439D6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4760BC6-C4F8-449B-AE90-63980392DBAD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F4760BC6-C4F8-449B-AE90-63980392DBAD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F4760BC6-C4F8-449B-AE90-63980392DBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4760BC6-C4F8-449B-AE90-63980392DBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD986AF3-3643-40DF-A129-B6C14439D6F0}.Debug|Any CPU.ActiveCfg = Debug
+		{CD986AF3-3643-40DF-A129-B6C14439D6F0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7768718E-FC5B-41A5-846C-2B3D3FBF09A6}
+	EndGlobalSection
+EndGlobal

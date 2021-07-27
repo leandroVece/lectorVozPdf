@@ -1,0 +1,84 @@
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.exe.config
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.exe
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.barcodes.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.forms.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.io.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.kernel.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.layout.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.pdfa.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.sign.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.styledxmlparser.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.svg.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.barcodes.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.forms.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.io.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.kernel.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.layout.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.pdfa.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.sign.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.styledxmlparser.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\itext.svg.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.ResolveComReference.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector_de_voz.Form1.resources
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector_de_voz.Properties.Resources.resources
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.CopyComplete
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.exe
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.pdb
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.exe.config
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.exe
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Lector de voz.pdb
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\BouncyCastle.Crypto.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.barcodes.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.forms.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.io.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.kernel.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.layout.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.pdfa.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.sign.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.styledxmlparser.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.svg.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\BouncyCastle.Crypto.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.pdb
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.pdb
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Common.Logging.Core.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.barcodes.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.forms.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.io.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.kernel.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.layout.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.pdfa.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.sign.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.styledxmlparser.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\itext.svg.xml
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\Interop.AcroPDFLib.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\bin\Release\AxInterop.AcroPDFLib.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csprojAssemblyReference.cache
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Interop.AcroPDFLib.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\AxInterop.AcroPDFLib.dll
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.ResolveComReference.cache
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector_de_voz.Form1.resources
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector_de_voz.Properties.Resources.resources
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.GenerateResource.cache
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.CoreCompileInputs.cache
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.csproj.CopyComplete
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.exe
+D:\proyectos c#\LectorDeVoz\Lector de voz\obj\Release\Lector de voz.pdb

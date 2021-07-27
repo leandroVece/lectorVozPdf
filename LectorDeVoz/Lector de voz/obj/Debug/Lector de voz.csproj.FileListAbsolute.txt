@@ -1,0 +1,42 @@
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Lector de voz.exe.config
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Lector de voz.exe
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Lector de voz.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.Core.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.barcodes.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.forms.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.io.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.kernel.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.layout.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.pdfa.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.sign.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.svg.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Common.Logging.Core.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.barcodes.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.forms.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.io.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.kernel.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.layout.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.pdfa.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.sign.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\itext.svg.xml
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.csproj.ResolveComReference.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector_de_voz.Form1.resources
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector_de_voz.Properties.Resources.resources
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.csproj.CopyComplete
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.exe
+C:\Users\Leo\source\repos\LectorDeVoz\Lector de voz\obj\Debug\Lector de voz.pdb
